@@ -1,0 +1,346 @@
+{
+  "sections": {
+    "image_banner_8DE4bA": {
+      "type": "image-banner",
+      "custom_css": [
+        "@media screen and (max-width: 750px) {.banner, slideshow-component {display: none; }}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Store_Banner_HP_LookFeel_2_001ad38c-aadd-4078-8d13-b25dba8ee576.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "image_banner_cFJVyh": {
+      "type": "image-banner",
+      "custom_css": [
+        "@media screen and (min-width: 400px) {.banner, slideshow-component {display: none; }}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Store_Banner_HP_LookFeel_2.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_8UzJEV": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_JYWViq": {
+          "type": "heading",
+          "settings": {
+            "heading": "CreadoParati.com quiere que luzcas espectacular y te sientas especial con las extensiones de forma y pestañas. Todo creado para ti.",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_JYWViq"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_r8h9G8": {
+      "type": "rich-text",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "1737823250fc96104f": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "multirow_Fhn9dY": {
+      "type": "multirow",
+      "blocks": {
+        "row_wkiCzR": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Thong_side_crop.jpg",
+            "caption": "",
+            "heading": "ABRAZA TUS CURVAS CON CONFIANZA",
+            "text": "<p><strong>Más que una prenda:<\/strong> Las fajas son un refuerzo para la confianza.<\/p><p><strong>Diseño:<\/strong> Suaviza, esculpe y realza instantáneamente tu figura.<\/p><p><strong>Suave y sin costuras:<\/strong> Invisible debajo de cualquier vestimenta.<\/p><p><strong>Versatilidad:<\/strong> Úsalas con vestidos ajustados o jeans.<\/p><p><strong>Comodidad y función:<\/strong> Ofrecen soporte específico y libertad de movimiento.<\/p><p><strong>Acepta tus curvas:<\/strong> Ayudan a realzar tus curvas naturales con facilidad.<\/p>",
+            "button_label": "COMPRAR AHORA",
+            "button_link": "shopify:\/\/collections\/shapewear"
+          }
+        },
+        "row_gM8M3e": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mink-eyelash-manufacturer-China-wholesale-3d-mink-lashes-wholesale11.jpg",
+            "caption": "",
+            "heading": "PESTAÑAS PARA CADA ESTILO",
+            "text": "<p><strong>Variedad de estilos:<\/strong> Desde natural hasta doble apilado y dramático.<\/p><p><strong>Belleza natural:<\/strong> Extensiones de pestañas clásicas o híbridas.<\/p><p><strong>Mirada glamurosa:<\/strong> Extensiones de pestañas de volumen.<\/p><p><strong>Ocasiones especiales:<\/strong> Extensiones de pestañas con efectos especiales (brillo o color).<\/p><p><strong>Opciones infinitas:<\/strong> Encuentra las extensiones perfectas para cada ocasión o estilo personal.<\/p>",
+            "button_label": "COMPRAR AHORA",
+            "button_link": "shopify:\/\/collections\/extensiones-de-pestanas"
+          }
+        }
+      },
+      "block_order": [
+        "row_wkiCzR",
+        "row_gM8M3e"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "heading_size": "h2",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_D6TfA7": {
+      "type": "rich-text",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_xBDHdG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_eM6diD": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>COMPRAR POR CATEGORÍA<\/strong>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_eM6diD"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_f6PJ6q": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_FHqUAC": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shapewear"
+          }
+        },
+        "featured_collection_BdPm36": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "extensiones-de-pestanas"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_FHqUAC",
+        "featured_collection_BdPm36"
+      ],
+      "custom_css": [
+        ".icon-arrow {display: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_zLEQLT": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_JinNhP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_30.png",
+            "title": "<strong>Envío rápido<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_F7Ahtg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_33.png",
+            "title": "<strong>Satisfacción del cliente<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_rVqwEa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/August_Sky__54_-removebg-preview.png",
+            "title": "<strong>Seguro de calidad<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_FJNnyA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PAYMENT_SECURE.png",
+            "title": "<strong>Pagos seguros<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_JinNhP",
+        "column_F7Ahtg",
+        "column_rVqwEa",
+        "column_FJNnyA"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "173743837990b49dea": {
+      "type": "apps",
+      "blocks": {
+        "trustify_reviews_app_product_block_qtiqkR": {
+          "type": "shopify:\/\/apps\/trustify-reviews\/blocks\/app-product-block\/60d505af-e468-47cf-a184-a06ccd6703ac",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "trustify_reviews_app_product_block_qtiqkR"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "newsletter_dMmnKh": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_wKfjTY": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>HOJA INFORMATIVA<\/strong>",
+            "heading_size": "h2"
+          }
+        },
+        "paragraph_PQ9yYT": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Suscríbete para recibir ofertas especiales, obsequios gratuitos y ofertas únicas en la vida.<\/p>"
+          }
+        },
+        "email_form_QVyUEr": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_wKfjTY",
+        "paragraph_PQ9yYT",
+        "email_form_QVyUEr"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 40
+      }
+    },
+    "173974502822c6cad2": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_featured_carousel_MVx8RW": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_featured_carousel_MVx8RW"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "image_banner_8DE4bA",
+    "image_banner_cFJVyh",
+    "rich_text_8UzJEV",
+    "rich_text_r8h9G8",
+    "1737823250fc96104f",
+    "multirow_Fhn9dY",
+    "rich_text_D6TfA7",
+    "rich_text_xBDHdG",
+    "collection_list_f6PJ6q",
+    "multicolumn_zLEQLT",
+    "173743837990b49dea",
+    "newsletter_dMmnKh",
+    "173974502822c6cad2"
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "trustify_reviews_app_stars_block_yBUUT4": {
+          "type": "shopify:\/\/apps\/trustify-reviews\/blocks\/app-stars-block\/60d505af-e468-47cf-a184-a06ccd6703ac",
+          "settings": {}
+        },
+        "title_RgCJ4n": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "icon_with_text_tHhbeA": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "vertical",
+            "icon_1": "none",
+            "heading_1": "<strong>Limpieza Suave<\/strong>",
+            "icon_2": "none",
+            "heading_2": "<strong>Mejora de la Retención<\/strong>",
+            "icon_3": "none",
+            "heading_3": "<strong>Suave para Ojos Sensibles<\/strong>"
+          }
+        },
+        "custom_liquid_7meBHp": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "<p style=\"font-size: 14px; line-height: 1.2;\">💃 Controla tu cintura<\/p>\n<p style=\"font-size: 14px; line-height: 1.2;\">✨ Comodidad todo el día.<\/p>\n<p style=\"font-size: 14px; line-height: 1.2;\">🌟 Invisible bajo la ropa.<\/p>"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "text_EpgbiD": {
+          "type": "text",
+          "settings": {
+            "text": "Nota: Solo quedan<strong> 17<\/strong> unidades en stock",
+            "text_style": "body"
+          }
+        },
+        "custom_liquid_YiwNfJ": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "<p style=\"font-size:14px; margin:0; padding:0; color:black;\">\n    <span style=\"height:8px; width:8px; background-color:#dc143c; border-radius:50%; display:inline-block; animation:blinking 1.5s infinite;\"><\/span>\n    <span style=\"color:#dc143c;\">Note:<\/span> Only <span style=\"font-weight:bold;\">7<\/span> units left in stock\n<\/p>\n\n<style>\n@keyframes blinking {\n    0% { opacity: 1.0; }\n    50% { opacity: 0.0; }\n    100% { opacity: 1.0; }\n}\n<\/style>"
+          }
+        },
+        "custom_liquid_TdANz9": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"ultimate-countdown\"><\/div>"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "icon_with_text_HwpAwT": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "truck",
+            "heading_1": "Compre dos: envío gratis",
+            "icon_2": "heart",
+            "heading_2": "Satisfacción garantizada",
+            "icon_3": "box",
+            "heading_3": "Devoluciones gratuitas"
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {}
+        },
+        "trustify_reviews_app_review_snippet_product_iyCcML": {
+          "type": "shopify:\/\/apps\/trustify-reviews\/blocks\/app-review-snippet-product\/60d505af-e468-47cf-a184-a06ccd6703ac",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "trustify_reviews_app_stars_block_yBUUT4",
+        "title_RgCJ4n",
+        "price",
+        "icon_with_text_tHhbeA",
+        "custom_liquid_7meBHp",
+        "variant_picker",
+        "text_EpgbiD",
+        "custom_liquid_YiwNfJ",
+        "custom_liquid_TdANz9",
+        "buy_buttons",
+        "icon_with_text_HwpAwT",
+        "description",
+        "trustify_reviews_app_review_snippet_product_iyCcML"
+      ],
+      "custom_css": [],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-289e4508-f294-4e0e-9957-c00ab5db85c2",
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "none",
+        "mobile_thumbnails": "hide",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 32,
+        "padding_bottom": 20
+      }
+    },
+    "multicolumn_8pLrUW": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_H4AFBA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Amazon.com_Focipeysa_Lash_Extension_Kit_Thick_Eyelash_Extension_Kit_10-18mm_Fluffy_Lash_Clusters_200D_Individual_Eyelashes_Kit_with_Lash_Bond_Lash_Remover_Lash_Applicator_DIY_Lashes_E_365bbb00-541f-4e29-aecd-9be46973bacf.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_jqPFPi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HighWaistThong_Review_Nina_67716042-5019-4027-8b5c-e461ac48acb8.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_CRWF4L": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HighWaistThong_Review_Maria_6cbbda64-3fcc-4703-a138-efbb4b1afb6e.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_pDcYQG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HighWaistThong_Review_Anniberth_cbb10fbb-ff0b-4001-88eb-437da1379bff.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_H4AFBA",
+        "column_jqPFPi",
+        "column_CRWF4L",
+        "column_pDcYQG"
+      ],
+      "settings": {
+        "title": "Más de 15,000 Reseñas de 5 Estrellas!",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-289e4508-f294-4e0e-9957-c00ab5db85c2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "48087c81-2cd2-4385-91a3-58af361690ae-widget-builder-all-in-one": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "image_with_text_3w39Wx": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_dRFidz": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>¿Cómo Usarlo?<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_JBBQLJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Aplica una pequeña<\/strong> cantidad de shampoo en el cepillo y <strong>masajea suavemente las pestañas<\/strong>. Enjuaga con agua tibia y disfruta de tus pestañas limpias y frescas.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_TgxaaA": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Etiqueta de botón",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_dRFidz",
+        "text_JBBQLJ",
+        "button_TgxaaA"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/71VwJxjonsL._SL1500_2bac7d8a-f437-4e4f-ad65-0d7979dea794.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-289e4508-f294-4e0e-9957-c00ab5db85c2",
+        "color_scheme": "scheme-289e4508-f294-4e0e-9957-c00ab5db85c2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_kMMQaB": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_V9fnWz": {
+          "type": "heading",
+          "settings": {
+            "heading": "¡Este shampoo para pestañas limpia suavemente! Con uso regular, mantendrás tus pestañas impecables en poco tiempo.",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_V9fnWz"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-5",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "image_with_text_3Xw76a": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_q8JJJ4": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Beneficio Principal 1: Limpieza Profunda para Pestañas Naturales y Extensiones<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_QUcjMQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>La fórmula de STACY LASH elimina suavemente el maquillaje, el aceite y la suciedad sin dañar tus pestañas. Es el limpiador perfecto para mantener tus extensiones de pestañas o mantener tus pestañas naturales saludables y frescas.<\/p><ul><li><strong>Limpieza Suave<\/strong>: La textura espumosa ayuda a limpiar sin irritar.<\/li><li><strong>Mejora de la Retención<\/strong>: Mantén las extensiones en buen estado y mejora la duración.<\/li><li><strong>Suave para Ojos Sensibles<\/strong>: Seguro para todos los tipos de piel, incluso para ojos sensibles.<\/li><\/ul>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_q8JJJ4",
+        "text_QUcjMQ"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_27.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-289e4508-f294-4e0e-9957-c00ab5db85c2",
+        "color_scheme": "scheme-289e4508-f294-4e0e-9957-c00ab5db85c2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_JEwN68": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_GdR4GB": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>¿Por Qué Te Encantará?<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_AAmchG": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Este shampoo no solo es fácil de usar, ¡sino que también es vegano y libre de crueldad! Está formulado para limpiar e hidratar las pestañas, dejándolas suaves, fuertes y saludables.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_GdR4GB",
+        "text_AAmchG"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Uso_en_casa.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-289e4508-f294-4e0e-9957-c00ab5db85c2",
+        "color_scheme": "scheme-289e4508-f294-4e0e-9957-c00ab5db85c2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_FXdce6": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hbVMwz": {
+          "type": "heading",
+          "settings": {
+            "heading": "¿No estás satisfecho? ¡No hay problema!",
+            "heading_size": "h2"
+          }
+        },
+        "text_aheCr9": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>¡Devoluciones gratuitas dentro de los 30 días posteriores a la compra!<\/strong><\/h3>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hbVMwz",
+        "text_aheCr9"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-5",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "rich_text_6YWJen": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_AwX8Qw": {
+          "type": "heading",
+          "settings": {
+            "heading": "Opiniones Reales de Clientes Reales",
+            "heading_size": "h1"
+          }
+        },
+        "text_EpzbMd": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_DAWbmn": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_AwX8Qw",
+        "text_EpzbMd",
+        "button_DAWbmn"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "1737442845c3585914": {
+      "type": "apps",
+      "blocks": {
+        "trustify_reviews_app_product_block_aVnkcP": {
+          "type": "shopify:\/\/apps\/trustify-reviews\/blocks\/app-product-block\/60d505af-e468-47cf-a184-a06ccd6703ac",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "trustify_reviews_app_product_block_aVnkcP"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "collapsible_content_mawbFT": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_pQp9Hr": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Puedo usar este shampoo con extensiones de pestañas?",
+            "icon": "question_mark",
+            "row_content": "<p>¡Sí! Este shampoo está diseñado para limpiar de manera segura tanto las pestañas naturales como las extensiones, mejorando la retención de las extensiones y asegurando que se mantengan en óptimas condiciones.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_9Ap74n": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Es seguro para ojos sensibles?",
+            "icon": "question_mark",
+            "row_content": "<p>¡Absolutamente! La fórmula suave y espumosa es segura para todos los tipos de piel, incluidos los ojos sensibles.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_XLzyXF": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Este producto funciona como desmaquillante?",
+            "icon": "question_mark",
+            "row_content": "<p>Sí, este shampoo elimina eficazmente el maquillaje, los aceites y las impurezas de tus pestañas y cejas, dejándolas frescas y limpias.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_a8izpA": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Puedo usarlo si no tengo extensiones de pestañas?",
+            "icon": "question_mark",
+            "row_content": "<p>¡Sí! Puedes usar este shampoo para el cuidado de las pestañas naturales o incluso como limpiador de cejas.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_VTtDph": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Con qué frecuencia debo usarlo?",
+            "icon": "question_mark",
+            "row_content": "<p>Para obtener los mejores resultados, usa el shampoo a diario para mantener tus pestañas limpias y mejorar la retención de las extensiones.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_AM9kya": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Este producto viene con un cepillo?",
+            "icon": "question_mark",
+            "row_content": "<p>¡Sí, este kit incluye un cepillo para las pestañas y un cepillo para el rímel para una limpieza fácil y suave!<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_pQp9Hr",
+        "collapsible_row_9Ap74n",
+        "collapsible_row_XLzyXF",
+        "collapsible_row_a8izpA",
+        "collapsible_row_VTtDph",
+        "collapsible_row_AM9kya"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "<strong>FAQ<\/strong>",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "scheme-2",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_fDVRQC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_gjKVyG": {
+          "type": "heading",
+          "settings": {
+            "heading": "🛍️ Venta de Año Nuevo 50% de Descuento -<strong> Solo Por 3 Días!<\/strong>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gjKVyG"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-289e4508-f294-4e0e-9957-c00ab5db85c2",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 32
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "main",
+    "multicolumn_8pLrUW",
+    "48087c81-2cd2-4385-91a3-58af361690ae-widget-builder-all-in-one",
+    "image_with_text_3w39Wx",
+    "rich_text_kMMQaB",
+    "image_with_text_3Xw76a",
+    "image_with_text_JEwN68",
+    "rich_text_FXdce6",
+    "rich_text_6YWJen",
+    "1737442845c3585914",
+    "collapsible_content_mawbFT",
+    "rich_text_fDVRQC",
+    "related-products"
+  ]
+}

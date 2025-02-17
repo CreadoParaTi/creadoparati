@@ -1,0 +1,528 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "trustify_reviews_app_stars_block_yBUUT4": {
+          "type": "shopify:\/\/apps\/trustify-reviews\/blocks\/app-stars-block\/60d505af-e468-47cf-a184-a06ccd6703ac",
+          "settings": {}
+        },
+        "title_RgCJ4n": {
+          "type": "title",
+          "settings": {}
+        },
+        "icon_with_text_tHhbeA": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "vertical",
+            "icon_1": "none",
+            "heading_1": "✨ <strong>Sujeción Súper Fuerte<\/strong>",
+            "icon_2": "none",
+            "heading_2": "💧 <strong>Fórmula Hidratante<\/strong>",
+            "icon_3": "none",
+            "heading_3": "🌊 <strong>Resistente al Agua<\/strong>"
+          }
+        },
+        "text_PPHVWW": {
+          "type": "text",
+          "settings": {
+            "text": "<strong> ¡Acorta tu rutina de belleza matutina y sigue luciendo fabulosa!<\/strong> ¿Cansada de lidiar con el pegamento y las complicaciones de la aplicación de pestañas cada mañana? <strong>Estas pestañas autoadhesivas revolucionarán tu rutina de belleza. <\/strong>",
+            "text_style": "body"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_8gMzrp": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "custom_liquid_QNLcm8": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div style=\"text-align: left;\">\n  <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0917\/6757\/0741\/files\/Garauntee_100_Spanish.png?v=1739229743\" alt=\"100% Satisfaction Guaranteed\" class=\"guarantee-badge\">\n<\/div>"
+          }
+        },
+        "icon_with_text_HwpAwT": {
+          "type": "icon-with-text",
+          "disabled": true,
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "truck",
+            "heading_1": "Envío gratis",
+            "icon_2": "heart",
+            "heading_2": "Satisfacción garantizada",
+            "icon_3": "box",
+            "heading_3": "Devoluciones gratuitas"
+          }
+        }
+      },
+      "block_order": [
+        "trustify_reviews_app_stars_block_yBUUT4",
+        "title_RgCJ4n",
+        "icon_with_text_tHhbeA",
+        "text_PPHVWW",
+        "price",
+        "variant_picker_8gMzrp",
+        "buy_buttons",
+        "custom_liquid_QNLcm8",
+        "icon_with_text_HwpAwT"
+      ],
+      "custom_css": [],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-289e4508-f294-4e0e-9957-c00ab5db85c2",
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "none",
+        "mobile_thumbnails": "hide",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 32,
+        "padding_bottom": 20
+      }
+    },
+    "1739644862007bbf4d": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "multicolumn_Cdk7wx": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_F4dph9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Lash_Review_5_4.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_JexFYc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Lash_Review_5_3.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_nENNeW": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Lash_Review_5_2.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_3bUEUz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Lash_Review_5_1.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_F4dph9",
+        "column_JexFYc",
+        "column_nENNeW",
+        "column_3bUEUz"
+      ],
+      "settings": {
+        "title": "<strong>¡A las clientas les encantan!<\/strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_3w39Wx": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_dRFidz": {
+          "type": "heading",
+          "settings": {
+            "heading": "Instrucciones de Uso",
+            "heading_size": "h1"
+          }
+        },
+        "text_iC6tJe": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Retira cuidadosamente las pestañas del estuche y colócalas directamente sobre tu línea de pestañas naturales. Presiona suavemente desde el centro hacia los extremos para asegurar una adhesión firme. Para retirarlas, despega desde el extremo exterior y guarda las pestañas en su estuche para futuros usos.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_dRFidz",
+        "text_iC6tJe"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/image_44_aa0f4090-d61a-44ea-b238-db338fdca99a.png",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-289e4508-f294-4e0e-9957-c00ab5db85c2",
+        "color_scheme": "scheme-289e4508-f294-4e0e-9957-c00ab5db85c2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_kMMQaB": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FBmJ6y": {
+          "type": "heading",
+          "settings": {
+            "heading": "¡Aplicar tus pestañas es facilísimo! Con un poco de práctica, ¡serás toda una experta en poco tiempo!",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FBmJ6y"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-5",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "image_with_text_3Xw76a": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_q8JJJ4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Realza tu Belleza Natural",
+            "heading_size": "h1"
+          }
+        },
+        "text_QUcjMQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Descubre la facilidad de lucir unas pestañas deslumbrantes sin complicaciones. Nuestras pestañas autoadhesivas están diseñadas para adaptarse a cualquier forma de ojo, proporcionando un aspecto natural y atractivo.<\/p><ul><li><strong>Ahorra Tiempo en tu Rutina de Maquillaje:<\/strong> Olvídate del pegamento y las aplicaciones complicadas.<\/li><li><strong>Reutilizables y Económicas:<\/strong> Con el cuidado adecuado, puedes usarlas varias veces, obteniendo el máximo valor por tu dinero.<\/li><li><strong>Diseño Natural:<\/strong> Realza tu mirada sin un aspecto artificial.<\/li><\/ul>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_q8JJJ4",
+        "text_QUcjMQ"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Brunette_Natural_Lashes.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-289e4508-f294-4e0e-9957-c00ab5db85c2",
+        "color_scheme": "scheme-289e4508-f294-4e0e-9957-c00ab5db85c2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_JEwN68": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_GdR4GB": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Confianza y Calidad Garantizada<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_AAmchG": {
+          "type": "text",
+          "settings": {
+            "text": "<p>En Creado Para Ti, nos comprometemos a ofrecer productos de alta calidad. Nuestras pestañas autoadhesivas han sido probadas para garantizar su seguridad y eficacia, brindándote la confianza que mereces en cada uso.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_GdR4GB",
+        "text_AAmchG"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/LimitlessLashes_394x_f08fffa6-13d0-427a-9efa-e16b8f5dbc90.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-289e4508-f294-4e0e-9957-c00ab5db85c2",
+        "color_scheme": "scheme-289e4508-f294-4e0e-9957-c00ab5db85c2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_FXdce6": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hbVMwz": {
+          "type": "heading",
+          "settings": {
+            "heading": "¿No estás satisfecho? ¡No hay problema!",
+            "heading_size": "h2"
+          }
+        },
+        "text_aheCr9": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>¡Devoluciones gratuitas dentro de los 30 días posteriores a la compra!<\/strong><\/h3>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hbVMwz",
+        "text_aheCr9"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-5",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "rich_text_PTiM3a": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_tphE3x": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>¡A los clientes reales les encanta!<\/strong>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_tphE3x"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "17380877293d661a6a": {
+      "type": "apps",
+      "blocks": {
+        "trustify_reviews_app_product_block_M33rYX": {
+          "type": "shopify:\/\/apps\/trustify-reviews\/blocks\/app-product-block\/60d505af-e468-47cf-a184-a06ccd6703ac",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "trustify_reviews_app_product_block_M33rYX"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1737442845c3585914": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "collapsible_content_mawbFT": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_pQp9Hr": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Puedo reutilizar las pestañas autoadhesivas?",
+            "icon": "question_mark",
+            "row_content": "<p>Sí, con el cuidado adecuado, nuestras pestañas pueden reutilizarse varias veces. Asegúrate de limpiarlas suavemente después de cada uso y guardarlas en su estuche original.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_F9P8xb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Son seguras para ojos sensibles?",
+            "icon": "question_mark",
+            "row_content": "<p>Sí, están diseñadas pensando en la comodidad y son aptas para ojos sensibles. Sin embargo, si experimentas alguna irritación, te recomendamos discontinuar su uso y consultar a un especialista.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_6BRiC3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Necesito aplicar maquillaje adicional para que se vean naturales?",
+            "icon": "question_mark",
+            "row_content": "<p>No es necesario, pero puedes aplicar delineador o sombra de ojos si deseas intensificar tu mirada.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_YjXrTp": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Cómo las retiro sin dañar mis pestañas naturales?",
+            "icon": "question_mark",
+            "row_content": "<p>Despega suavemente desde el extremo exterior hacia el interior. Evita tirar bruscamente para proteger tus pestañas naturales.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_XTGzTd": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Puedo usarlas si uso lentes de contacto?",
+            "icon": "question_mark",
+            "row_content": "<p>Sí, son compatibles con el uso de lentes de contacto. Asegúrate de aplicarlas correctamente para evitar cualquier incomodidad.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_BJF4qz": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Qué hago si la adhesión disminuye con el tiempo?",
+            "icon": "question_mark",
+            "row_content": "<p>Si notas que la adhesión disminuye, puedes aplicar una pequeña cantidad de pegamento para pestañas para prolongar su uso.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_pQp9Hr",
+        "collapsible_row_F9P8xb",
+        "collapsible_row_6BRiC3",
+        "collapsible_row_YjXrTp",
+        "collapsible_row_XTGzTd",
+        "collapsible_row_BJF4qz"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "<strong>FAQ<\/strong>",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "scheme-2",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "featured_collection_8cXtBR": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Extensiones de Pestañas",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "extensiones-de-pestanas",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-289e4508-f294-4e0e-9957-c00ab5db85c2",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1739644862007bbf4d",
+    "multicolumn_Cdk7wx",
+    "image_with_text_3w39Wx",
+    "rich_text_kMMQaB",
+    "image_with_text_3Xw76a",
+    "image_with_text_JEwN68",
+    "rich_text_FXdce6",
+    "rich_text_PTiM3a",
+    "17380877293d661a6a",
+    "1737442845c3585914",
+    "collapsible_content_mawbFT",
+    "related-products",
+    "featured_collection_8cXtBR"
+  ]
+}

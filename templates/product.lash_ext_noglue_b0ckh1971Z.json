@@ -1,0 +1,424 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "trustify_reviews_app_stars_block_yBUUT4": {
+          "type": "shopify:\/\/apps\/trustify-reviews\/blocks\/app-stars-block\/60d505af-e468-47cf-a184-a06ccd6703ac",
+          "settings": {}
+        },
+        "title_RgCJ4n": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "icon_with_text_tHhbeA": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "vertical",
+            "icon_1": "none",
+            "heading_1": "<strong>✨ ¡Transforma tus pestañas fácilmente<\/strong>",
+            "icon_2": "none",
+            "heading_2": "<strong>⏳ Aplicación sencilla para resultados duraderos <\/strong>",
+            "icon_3": "none",
+            "heading_3": "<strong>💲 Dale un toque de lujo a tus pestañas sin gastar mucho<\/strong>"
+          }
+        },
+        "custom_liquid_YiwNfJ": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "<p style=\"font-size:14px; margin:0; padding:0; color:black;\">\n    <span style=\"height:8px; width:8px; background-color:#dc143c; border-radius:50%; display:inline-block; animation:blinking 1.5s infinite;\"><\/span>\n    <span style=\"color:#dc143c;\">Note:<\/span> Only <span style=\"font-weight:bold;\">7<\/span> units left in stock\n<\/p>\n\n<style>\n@keyframes blinking {\n    0% { opacity: 1.0; }\n    50% { opacity: 0.0; }\n    100% { opacity: 1.0; }\n}\n<\/style>"
+          }
+        },
+        "text_PPHVWW": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>Mija, ¿estás lista para dominar el mundo con una mirada que hipnotiza?<\/strong> Nuestro kit de extensiones de pestañas esponjosas te hará lucir espectacular. <strong>Date un chapuzón sin gastar una fortuna.<\/strong>",
+            "text_style": "body"
+          }
+        },
+        "custom_liquid_y4WEFh": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{% assign my_text = 'Kit de Extensiones de Pestañas Gruesas. Grupos de Pestañas Volumen 40D+50D. Pestañas Individuales Curva D.  280 piezas, Pestañas de Banda Delgada. Adhesivo y Sellador para Pestañas. Pinzas para Pestañas.' | split: '. ' %}\n\n<ul>\n  {% for line in my_text %}\n    <li>{{ line }}<\/li>\n  {% endfor %}\n<\/ul>"
+          }
+        },
+        "variant_picker_8gMzrp": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "icon_with_text_HwpAwT": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "truck",
+            "heading_1": "Envío gratis",
+            "icon_2": "heart",
+            "heading_2": "Satisfacción garantizada",
+            "icon_3": "box",
+            "heading_3": "Devoluciones gratuitas"
+          }
+        }
+      },
+      "block_order": [
+        "trustify_reviews_app_stars_block_yBUUT4",
+        "title_RgCJ4n",
+        "price",
+        "icon_with_text_tHhbeA",
+        "custom_liquid_YiwNfJ",
+        "text_PPHVWW",
+        "custom_liquid_y4WEFh",
+        "variant_picker_8gMzrp",
+        "buy_buttons",
+        "icon_with_text_HwpAwT"
+      ],
+      "custom_css": [],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-289e4508-f294-4e0e-9957-c00ab5db85c2",
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "none",
+        "mobile_thumbnails": "hide",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 32,
+        "padding_bottom": 20
+      }
+    },
+    "1738088428951a089d": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "image_with_text_3w39Wx": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_dRFidz": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>¡Cómo Funciona!<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_iC6tJe": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Limpia tus pestañas 💧<\/p><p>Aplica el adhesivo para pestañas esponjosas 🧴<\/p><p>Coloca los grupos de pestañas esponjosas sobre tus pestañas naturales 😉<\/p><p>Sella con el sellador de pestañas esponjosas ✨<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_dRFidz",
+        "text_iC6tJe"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/image_2000x_dcb46cc4-987e-40fc-84a3-55de5e577ac6.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-289e4508-f294-4e0e-9957-c00ab5db85c2",
+        "color_scheme": "scheme-289e4508-f294-4e0e-9957-c00ab5db85c2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_kMMQaB": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FBmJ6y": {
+          "type": "heading",
+          "settings": {
+            "heading": "¡Aplicar tus pestañas es facilísimo! Con un poco de práctica, ¡serás toda una experta en poco tiempo!",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FBmJ6y"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-5",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "image_with_text_3Xw76a": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_q8JJJ4": {
+          "type": "heading",
+          "settings": {
+            "heading": "¡Logra unas pestañas esponjosas más largas y voluminosas en minutos!",
+            "heading_size": "h1"
+          }
+        },
+        "text_QUcjMQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Con solo unos sencillos pasos,<\/strong> puedes lograr unas pestañas i<strong>ncreíbles como de salón<\/strong>, ¡pero <strong>en la comodidad de tu hogar!<\/strong><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_q8JJJ4",
+        "text_QUcjMQ"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mink-eyelash-manufacturer-China-wholesale-3d-mink-lashes-wholesale11.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-289e4508-f294-4e0e-9957-c00ab5db85c2",
+        "color_scheme": "scheme-289e4508-f294-4e0e-9957-c00ab5db85c2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_JEwN68": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_GdR4GB": {
+          "type": "heading",
+          "settings": {
+            "heading": "Disfrute usted mismo de los beneficios de las extensiones de pestañas DIY.",
+            "heading_size": "h1"
+          }
+        },
+        "text_AAmchG": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li><strong>Económico: <\/strong>Nuestro kit es mucho más accesible que ponerte extensiones de pestañas en un salón. 💰<\/li><li><strong>Práctico:<\/strong> Puedes aplicar tus pestañas en cualquier momento y lugar. 🕒<\/li><li><strong>Duraderas:<\/strong> Nuestras pestañas pueden durar hasta 3 semanas con el cuidado adecuado. 💪<\/li><\/ul>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_GdR4GB",
+        "text_AAmchG"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/wholesale-3d-mink-lashes-vendor-25mm-mink-eyelash-customer-show.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-289e4508-f294-4e0e-9957-c00ab5db85c2",
+        "color_scheme": "scheme-289e4508-f294-4e0e-9957-c00ab5db85c2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_FXdce6": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hbVMwz": {
+          "type": "heading",
+          "settings": {
+            "heading": "¿No estás satisfecho? ¡No hay problema!",
+            "heading_size": "h2"
+          }
+        },
+        "text_aheCr9": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>¡Devoluciones gratuitas dentro de los 30 días posteriores a la compra!<\/strong><\/h3>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hbVMwz",
+        "text_aheCr9"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-5",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "1737442845c3585914": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "collapsible_content_mawbFT": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_pQp9Hr": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Cómo se lavan?",
+            "icon": "question_mark",
+            "row_content": "<p>Se pueden lavar a máquina en agua fría.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_6BRiC3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Los brillos se caen?",
+            "icon": "check_mark",
+            "row_content": "<p>No, nuestros brillos están cosidos a mano para mayor durabilidad.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_9Ap74n": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Puedo personalizarlas con emojis?",
+            "icon": "question_mark",
+            "row_content": "<p>Por el momento solo se admiten letras y números.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_XLzyXF": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Cuál es el tiempo de entrega?",
+            "icon": "question_mark",
+            "row_content": "<p>Recibirás tu pedido en [tiempo de entrega estimado.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_a8izpA": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Ofrecen envíos internacionales?",
+            "icon": "question_mark",
+            "row_content": "<p>Actualmente solo realizamos envíos dentro de los Estados Unidos.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_VTtDph": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Cuál es la política de devolución?",
+            "icon": "question_mark",
+            "row_content": "<p>Puedes devolver tu producto dentro de los 30 días de la compra.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_AM9kya": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¡No te arriesgues a quedarte sin ellas!",
+            "icon": "question_mark",
+            "row_content": "<p> Cupido está volando y el tiempo corre.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_pQp9Hr",
+        "collapsible_row_6BRiC3",
+        "collapsible_row_9Ap74n",
+        "collapsible_row_XLzyXF",
+        "collapsible_row_a8izpA",
+        "collapsible_row_VTtDph",
+        "collapsible_row_AM9kya"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "<strong>FAQ<\/strong>",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "scheme-2",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "17380877293d661a6a": {
+      "type": "apps",
+      "blocks": {
+        "trustify_reviews_app_product_block_M33rYX": {
+          "type": "shopify:\/\/apps\/trustify-reviews\/blocks\/app-product-block\/60d505af-e468-47cf-a184-a06ccd6703ac",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "trustify_reviews_app_product_block_M33rYX"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1738088428951a089d",
+    "image_with_text_3w39Wx",
+    "rich_text_kMMQaB",
+    "image_with_text_3Xw76a",
+    "image_with_text_JEwN68",
+    "rich_text_FXdce6",
+    "1737442845c3585914",
+    "collapsible_content_mawbFT",
+    "related-products",
+    "17380877293d661a6a"
+  ]
+}
